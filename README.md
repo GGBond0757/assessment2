@@ -39,5 +39,6 @@ plotly<br>
   
 4.Table of Driver's Historical Score Totals<br>
     In this section I have created a bar chart of the drivers' historical totals and arranged them in descending order. You can clearly see their names, total scores by moving your mouse.
+    
 5.Fastest driver per race stop<br>
     This section shows the fastest pit stops in seconds for each race and the corresponding drivers. You can also change the "color" in the code to retrieve which races your favourite driver is the fastest pit stop holder.
